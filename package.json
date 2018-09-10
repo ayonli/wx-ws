@@ -1,0 +1,25 @@
+{
+  "name": "wx-ws",
+  "version": "0.1.0",
+  "description": "A WebSocket wrapper based on wx.connectSocket for Wechat/Weixin Apps and Games.",
+  "main": "dist/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/wx-ws.git"
+  },
+  "keywords": [
+    "Wechat",
+    "Weixin",
+    "WebSocket",
+    "WS"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/wx-ws/issues"
+  },
+  "homepage": "https://github.com/hyurl/wx-ws#readme",
+  "devDependencies": {
+    "@types/node": "^10.9.4"
+  }
+}
